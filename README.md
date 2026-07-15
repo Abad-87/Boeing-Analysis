@@ -2,9 +2,11 @@
   <img src="Banner.gif" alt="Abad-87 Banner" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=C56A90&center=true&vCenter=true&width=650&lines=Hi+There%2C+I'm+Syed+Abad+Mustafa;Data+Analyst+%7C+AI+%26+ML+Enthusiast;Turning+Raw+Data+Into+Real+Insights;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm SYED ABAD MUSTAFA</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+AI+%26+ML+Enthusiast;Turning+Raw+Data+Into+Real+Insights;Building+Dashboards+That+Tell+Stories;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 <div>
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -13,9 +15,9 @@
 <h3 align="center">B.Tech CSE (DSAI) Student | Learning Python, SQL, ML & Data Science | Exploring AI, Data Visualization & beginner projects</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abad-87&label=Profile%20Views&color=c56a90&style=for-the-badge&logo=github" alt="Abad-87" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=c56a90&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbad-87&style=for-the-badge&logo=github" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-2ea44f?style=for-the-badge&logo=probot" alt="status" />
+  <img src="https://komarev.com/ghpvc/?username=Abad-87&label=Profile%20Views&color=D4AF37&style=for-the-badge&logo=github" alt="Abad-87" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=D4AF37&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbad-87&style=for-the-badge&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-D4AF37?style=for-the-badge&logo=probot&logoColor=black" alt="status" />
 </p>
 
 - 🔭 I'm currently working on **Power BI dashboards and building my data science skills to stay at the top of my field**
@@ -66,20 +68,20 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abad-87&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=c56a90&icon_color=ffeb95&text_color=ffffff&count_private=true" alt="Abad-87's GitHub stats" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Abad-87&theme=radical&hide_border=true&background=0D1117&ring=c56a90&fire=ffeb95&currStreakLabel=c56a90" alt="Abad-87's streak stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abad-87&show_icons=true&theme=transparent&hide_border=false&border_color=D4AF37&border_radius=15&bg_color=30,000000,1a1a2e&title_color=D4AF37&icon_color=E5C687&text_color=F5F0E6&count_private=true" alt="Abad-87's GitHub stats" height="185"/>
+  <img src="https://streak-stats.demolab.com/?user=Abad-87&hide_border=false&border=D4AF37&border_radius=15&background=30,000000,1a1a2e&ring=D4AF37&fire=E5C687&currStreakLabel=D4AF37&sideLabels=F5F0E6&currStreakNum=F5F0E6&sideNums=F5F0E6&dates=9a8c72" alt="Abad-87's streak stats" height="185"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=c56a90&text_color=ffffff&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abad-87&layout=compact&theme=transparent&hide_border=false&border_color=D4AF37&border_radius=15&bg_color=30,000000,1a1a2e&title_color=D4AF37&text_color=F5F0E6&langs_count=8" alt="Top Languages" height="185"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&theme=react-dark&hide_border=true&bg_color=0D1117&color=c56a90&line=ffeb95&point=ffffff&area=true" alt="Abad-87's Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abad-87&theme=minimal&hide_border=true&bg_color=30,000000,1a1a2e&color=D4AF37&line=D4AF37&point=F5F0E6&area=true&area_color=E5C687" alt="Abad-87's Activity Graph" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=gruvbox&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" alt="trophies"/>
 </p>
 
 > 💡 **Note:** these cards render live from free third-party hosted services (github-readme-stats, streak-stats.demolab.com, activity-graph, profile-trophy) and need no setup — they'll populate as soon as this file is your profile README (repo named exactly `Abad-87`) and your contribution graph is public. These free instances occasionally get rate-limited and show "Something went wrong" for a few minutes; if that happens often, self-hosting on Vercel (one-click deploy from each project's GitHub repo) fixes it permanently.
