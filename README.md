@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00E5FF&height=220&section=header&text=BOEING%20AVIATION%20INTELLIGENCE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br>
-
+ggg
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Aviation+Analytics+Platform;Exploring+Boeing+Aircraft+Data;Python+Powered+Insights;Engineering+Meets+Data+Science+✈️"/>
 
 <br><br>
