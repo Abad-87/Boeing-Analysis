@@ -1,13 +1,3 @@
-<div align="center">
-
-✨ **Boeing Analysis** ✨
-
-![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHN0cTN5Njc3N2pnbzExOTVieWd2YzZtdWUzdm80b2I5ejd4amtoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9DiewJzdNifQ9wPbiQ/giphy.gif)
-
-🚀 ⭐ 🛫 ⭐ 🚀
-
-</div>
-
 <p align="center">
   <img src="Banner.gif" alt="Abad-87 Banner" width="100%" />
 </p>
@@ -60,7 +50,7 @@
 <p align="center">
   <img src="New_Power_BI_Logo.png" alt="powerbi" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="excel" height="28"/>
 </p>
 
 <h4 align="center">Dev Tools & Platforms</h4>
@@ -68,7 +58,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/n8n/n8n-icon.svg" alt="n8n" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="28"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=5&section=header"/>
@@ -77,7 +67,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abad-87&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=c56a90&icon_color=ffeb95&text_color=ffffff&count_private=true" alt="Abad-87's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abad-87&theme=radical&hide_border=true&background=0D1117&ring=c56a90&fire=ffeb95&currStreakLabel=c56a90" alt="Abad-87's streak stats" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Abad-87&theme=radical&hide_border=true&background=0D1117&ring=c56a90&fire=ffeb95&currStreakLabel=c56a90" alt="Abad-87's streak stats" height="180"/>
 </p>
 
 <p align="center">
@@ -92,11 +82,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Abad-87&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" alt="trophies"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-visitor-counter-two.vercel.app/api?username=Abad-87&label=Profile+Visitors&color=c56a90&style=flat" alt="visitor count"/>
-</p>
-
-> 💡 **Note:** GitHub stats cards render live from third-party services (github-readme-stats, streak-stats, activity-graph, profile-trophy). They'll populate automatically once this README is on your profile repo — no setup needed beyond your username being public. If any card shows "Something went wrong," it's usually a temporary rate limit on the free hosted instance; you can self-host these services on Vercel for guaranteed uptime.
+> 💡 **Note:** these cards render live from free third-party hosted services (github-readme-stats, streak-stats.demolab.com, activity-graph, profile-trophy) and need no setup — they'll populate as soon as this file is your profile README (repo named exactly `Abad-87`) and your contribution graph is public. These free instances occasionally get rate-limited and show "Something went wrong" for a few minutes; if that happens often, self-hosting on Vercel (one-click deploy from each project's GitHub repo) fixes it permanently.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=5&section=header"/>
 
